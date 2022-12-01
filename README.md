@@ -7,4 +7,6 @@
 
 [136 Single Number](https://github.com/pavel-garmatyuk/leetcode/blob/f59a29d3a4bf2c646789f650d4db21aa5bf3b18a/src/main/java/leetcode1xx/SingleNumber136/Solution.java)
 
+[1704 Determine if String halves are alike](https://github.com/pavel-garmatyuk/leetcode/blob/627b9af8ac230aafcfb05dc1faee890f067114e5/src/main/java/leetcode17xx/DetermineIfStringHalvesAreAlike1704/Solution.java)
+
 [1929 Concatenation of Array](https://github.com/pavel-garmatyuk/leetcode/blob/bd81da8d8b8e8e2f507e843497d2ad2acd05de31/src/main/java/leetcode19xx/ConcatenationofArray1929/Solution.java)
