@@ -9,4 +9,6 @@
 
 [1704 Determine if String halves are alike](https://github.com/pavel-garmatyuk/leetcode/blob/627b9af8ac230aafcfb05dc1faee890f067114e5/src/main/java/leetcode17xx/DetermineIfStringHalvesAreAlike1704/Solution.java)
 
+[1920 Build Array from Permutation](https://github.com/pavel-garmatyuk/leetcode/blob/main/src/main/java/leetcode19xx/BuildArrayFromPermutation1920/Solution.java)
+
 [1929 Concatenation of Array](https://github.com/pavel-garmatyuk/leetcode/blob/bd81da8d8b8e8e2f507e843497d2ad2acd05de31/src/main/java/leetcode19xx/ConcatenationofArray1929/Solution.java)
