@@ -7,6 +7,8 @@
 
 [136 Single Number](https://github.com/pavel-garmatyuk/leetcode/blob/f59a29d3a4bf2c646789f650d4db21aa5bf3b18a/src/main/java/leetcode1xx/SingleNumber136/Solution.java)
 
+[1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/pavel-garmatyuk/leetcode/blob/main/src/main/java/leetcode12xx/SubtractTheProductAndSumOfDigitsOfAnInteger1281/Solution.java)
+
 [1704 Determine if String halves are alike](https://github.com/pavel-garmatyuk/leetcode/blob/627b9af8ac230aafcfb05dc1faee890f067114e5/src/main/java/leetcode17xx/DetermineIfStringHalvesAreAlike1704/Solution.java)
 
 [1920 Build Array from Permutation](https://github.com/pavel-garmatyuk/leetcode/blob/main/src/main/java/leetcode19xx/BuildArrayFromPermutation1920/Solution.java)
